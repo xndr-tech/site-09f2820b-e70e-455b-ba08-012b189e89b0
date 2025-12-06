@@ -1,0 +1,9 @@
+{
+  "name": "site-09f2820b-e70e-455b-ba08-012b189e89b0",
+  "compatibility_date": "2024-01-01",
+  "assets": {
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "single-page-application"
+  }
+}

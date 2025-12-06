@@ -1,0 +1,12 @@
+{
+  "name": "site-09f2820b-e70e-455b-ba08-012b189e89b0",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
